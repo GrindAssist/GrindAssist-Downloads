@@ -6,8 +6,8 @@
   "launcherStatus": "Online",
   "announcement": {
     "enabled": true,
-    "title": "Remote configuration is live",
-    "message": "Macro availability, instructions and download links can now be updated without publishing a new launcher.",
+    "title": "Version 1.3.7 is live",
+    "message": "All macros & instructions are now handled remotely.",
     "type": "success"
   },
   "macros": [
