@@ -6,7 +6,7 @@
   "launcherStatus": "Online",
   "announcement": {
     "enabled": true,
-    "title": "Launcher version 1.4.2 is live.",
+    "title": "Launcher version 1.4.3 is live.",
     "message": "Implemented additional support and diagnostic features.",
     "type": "success"
   },
