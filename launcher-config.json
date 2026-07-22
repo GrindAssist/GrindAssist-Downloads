@@ -6,7 +6,7 @@
   "launcherStatus": "Online",
   "announcement": {
     "enabled": true,
-    "title": "Version 1.4.1 is live",
+    "title": "Launcher version 1.4.2 is live.",
     "message": "Implemented additional support and diagnostic features.",
     "type": "success"
   },
@@ -95,5 +95,6 @@
       "fileName": "FH6 Car Mastery - GrindAssist - Mazda.exe",
       "instructions": ""
     }
-  ]
+  ],
+  "healthRefreshSeconds": 60
 }
