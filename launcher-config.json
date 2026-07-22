@@ -1,1 +1,99 @@
-
+{
+  "configVersion": 1,
+  "maintenanceMode": false,
+  "maintenanceMessage": "Grind Assist is currently undergoing scheduled maintenance. Please check Discord for updates.",
+  "minimumLauncherVersion": "1.3.6",
+  "launcherStatus": "Online",
+  "announcement": {
+    "enabled": true,
+    "title": "Remote configuration is live",
+    "message": "Macro availability, instructions and download links can now be updated without publishing a new launcher.",
+    "type": "success"
+  },
+  "macros": [
+    {
+      "id": "colossus",
+      "category": "Colossus",
+      "title": "Colossus AFK",
+      "description": "Fully AFK Colossus Rivals automation.",
+      "badge": "Recommended",
+      "status": "Ready",
+      "enabled": true,
+      "minimumTier": "Daily",
+      "version": "1.0.0",
+      "downloadUrl": "https://github.com/GrindAssist/GrindAssist-Downloads/releases/download/v1.0.0/colossuspackage.zip",
+      "fileName": "Colossus.exe",
+      "instructions": ""
+    },
+    {
+      "id": "skillpoints",
+      "category": "Skill Points",
+      "title": "SP Farm",
+      "description": "Automatically repeats the recommended EventLab Challenge to farm Skill Points.",
+      "badge": "Latest",
+      "status": "Ready",
+      "enabled": true,
+      "minimumTier": "Daily",
+      "version": "1.0.0",
+      "downloadUrl": "https://github.com/GrindAssist/GrindAssist-Downloads/releases/download/v1.0.0.sp/Skillpoints.zip",
+      "fileName": "FH6 Skillpoints - GrindAssist.exe",
+      "instructions": ""
+    },
+    {
+      "id": "wheelspinner-keep",
+      "category": "Wheelspins",
+      "title": "Keep Duplicate FE Cars",
+      "description": "Spins normal and Super Wheelspins while keeping duplicate Forza Edition cars.",
+      "badge": "Variant 1",
+      "status": "Ready",
+      "enabled": true,
+      "minimumTier": "Daily",
+      "version": "1.0.0",
+      "downloadUrl": "https://github.com/GrindAssist/GrindAssist-Downloads/releases/download/v1.0.0.ws/Wheelspinner.zip",
+      "fileName": "FH6 Wheelspins - GrindAssist.exe",
+      "instructions": ""
+    },
+    {
+      "id": "wheelspinner-sell",
+      "category": "Wheelspins",
+      "title": "Sell Duplicate FE Cars",
+      "description": "Spins normal and Super Wheelspins while automatically selling duplicate Forza Edition cars.",
+      "badge": "Variant 2",
+      "status": "Ready",
+      "enabled": true,
+      "minimumTier": "Daily",
+      "version": "1.0.0",
+      "downloadUrl": "https://github.com/GrindAssist/GrindAssist-Downloads/releases/download/v1.0.0.ws/Wheelspinner.zip",
+      "fileName": "FH6 Wheelspins Sell FE - GrindAssist.exe",
+      "instructions": ""
+    },
+    {
+      "id": "car-mastery-revuelto",
+      "category": "Car Mastery",
+      "title": "Lamborghini Revuelto",
+      "description": "Processes Revuelto vehicles for 1 Super Wheelspin and 3 normal Wheelspins per completed vehicle.",
+      "badge": "Super + Normal",
+      "status": "Ready",
+      "enabled": true,
+      "minimumTier": "Daily",
+      "version": "1.0.0",
+      "downloadUrl": "https://github.com/GrindAssist/GrindAssist-Downloads/releases/download/v1.0.0.cm/CarMastery.zip",
+      "fileName": "FH6 Car Mastery - GrindAssist - Revuelto.exe",
+      "instructions": ""
+    },
+    {
+      "id": "car-mastery-mazda",
+      "category": "Car Mastery",
+      "title": "Mazda DLC Pass",
+      "description": "DLC Pass route that processes Mazda vehicles for 1 Super Wheelspin per completed vehicle.",
+      "badge": "Super Only",
+      "status": "Ready",
+      "enabled": true,
+      "minimumTier": "Daily",
+      "version": "1.0.0",
+      "downloadUrl": "https://github.com/GrindAssist/GrindAssist-Downloads/releases/download/v1.0.0.cm/CarMastery.zip",
+      "fileName": "FH6 Car Mastery - GrindAssist - Mazda.exe",
+      "instructions": ""
+    }
+  ]
+}
