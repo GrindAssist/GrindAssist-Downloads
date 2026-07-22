@@ -6,8 +6,8 @@
   "launcherStatus": "Online",
   "announcement": {
     "enabled": true,
-    "title": "Version 1.3.7 is live",
-    "message": "All macros & instructions are now handled remotely.",
+    "title": "Version 1.3.9 is live",
+    "message": "Implemented additional support and diagnostic features.",
     "type": "success"
   },
   "macros": [
