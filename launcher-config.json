@@ -6,8 +6,8 @@
   "launcherStatus": "Online",
   "announcement": {
     "enabled": true,
-    "title": "Launcher version 1.4.4 is live.",
-    "message": "Implemented additional support and diagnostic features.",
+    "title": "Launcher version 1.4.6 is live.",
+    "message": "Massive update to the Colossus Macro.",
     "type": "success"
   },
   "macros": [
