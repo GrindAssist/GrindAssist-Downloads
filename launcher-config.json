@@ -6,8 +6,8 @@
   "launcherStatus": "Online",
   "announcement": {
     "enabled": true,
-    "title": "Launcher version 2.2.7 is live.",
-    "message": "Massive update to the Grind Assist Launcher.",
+    "title": "Launcher version 2.4.8 is live.",
+    "message": "UI Improvements, Statistics are now accurately displayed via the launcher.",
     "type": "success"
   },
   "macros": [
