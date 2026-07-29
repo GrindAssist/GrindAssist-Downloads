@@ -23,7 +23,7 @@
       "version": "1.1.0",
       "downloadUrl": "https://github.com/GrindAssist/GrindAssist-Downloads/releases/download/v1.0.0/colossuspackage.zip",
       "fileName": "Colossus.exe",
-      "instructions": ""
+      "instructions": "Before Starting\n\n• Select any R Class vehicle.\n• For the best credit earnings, we recommend using a Forza Edition vehicle with a Credits Boost bonus.\n• Expected earnings are approximately 600,000 Credits per hour for standard players and up to 1,200,000 Credits per hour for VIP players.\n\nRequired Driving Assists\n\n• Drivatar Difficulty → Unbeatable\n• Braking → Anti-Lock Off\n• Steering → Simulation\n• Traction Control → Off\n• Stability Control → Off\n• Shifting → Manual\n\nMacro Controls\n\n• F8 → Start\n• F2 → Pause or Resume\n• F9 → Stop"
     },
     {
       "id": "skillpoints",
@@ -37,7 +37,7 @@
       "version": "1.0.0",
       "downloadUrl": "https://github.com/GrindAssist/GrindAssist-Downloads/releases/download/v1.0.0.sp/Skillpoints.zip",
       "fileName": "FH6 Skillpoints - GrindAssist.exe",
-      "instructions": ""
+      "instructions": "Before Starting\n\n• Select the required Subaru vehicle before starting the macro.\n• Using another vehicle may prevent the macro from earning the expected 9–10 Skill Points per run.\n\nRequired Driving Assists\n\n• Drivatar Difficulty → Unbeatable\n• Braking → Assisted\n• Steering → Auto-Steering\n• Traction Control → On\n• Stability Control → On\n• Shifting → Automatic\n\nChallenge Setup\n\n1. Open the Race menu.\n2. Select EventLab.\n3. Select Play Challenges.\n4. Choose a compatible Skill Point challenge.\n\nRecommended Share Code\n\n• 140 849 306\n\nThe newer July 15 \"Always Win 2\" version from the same creator may also be used. Both versions complete in approximately 21 seconds and are compatible with the macro.\n\nMacro Controls\n\n• F8 → Start\n• F2 → Pause or Resume\n• F9 → Stop"
     },
     {
       "id": "wheelspinner-keep",
@@ -51,7 +51,7 @@
       "version": "1.0.0",
       "downloadUrl": "https://github.com/GrindAssist/GrindAssist-Downloads/releases/download/v1.0.0.ws/Wheelspinner.zip",
       "fileName": "FH6 Wheelspins - GrindAssist.exe",
-      "instructions": ""
+      "instructions": "Before Starting\n\n• Open the My Horizon menu before starting the macro.\n• Make sure you have normal Wheelspins or Super Wheelspins available.\n\nHow This Version Works\n\n• Automatically opens both normal Wheelspins and Super Wheelspins.\n• Keeps duplicate Forza Edition vehicles.\n• Other duplicate vehicles are handled automatically by the game and macro flow.\n\nUse this version when you want to keep duplicate Forza Edition cars instead of selling them.\n\nMacro Controls\n\n• F8 → Start\n• F2 → Pause or Resume\n• F9 → Stop"
     },
     {
       "id": "wheelspinner-sell",
@@ -65,7 +65,7 @@
       "version": "1.0.0",
       "downloadUrl": "https://github.com/GrindAssist/GrindAssist-Downloads/releases/download/v1.0.0.ws/Wheelspinner.zip",
       "fileName": "FH6 Wheelspins Sell FE - GrindAssist.exe",
-      "instructions": ""
+      "instructions": "Before Starting\n\n• Open the My Horizon menu before starting the macro.\n• Make sure you have normal Wheelspins or Super Wheelspins available.\n\nHow This Version Works\n\n• Automatically opens both normal Wheelspins and Super Wheelspins.\n• Automatically sells duplicate vehicles, including duplicate Forza Edition vehicles.\n\nUse this version when you want to automatically sell all duplicate cars for additional Credits.\n\nMacro Controls\n\n• F8 → Start\n• F2 → Pause or Resume\n• F9 → Stop"
     },
     {
       "id": "car-mastery-revuelto",
@@ -79,7 +79,7 @@
       "version": "1.0.0",
       "downloadUrl": "https://github.com/GrindAssist/GrindAssist-Downloads/releases/download/v1.0.0.cm/CarMastery.zip",
       "fileName": "FH6 Car Mastery - GrindAssist - Revuelto.exe",
-      "instructions": ""
+      "instructions": "Before Starting\n\n• Enter the Garage and open any section of the main Garage menu.\n• Make sure you have enough Credits to purchase the required vehicles.\n• Make sure you have enough Skill Points available for each Car Mastery tree.\n\nRecommended Vehicle\n\n• Lamborghini Revuelto\n• This is the recommended Car Mastery vehicle for players using the base game.\n• Each completed vehicle provides 1 Super Wheelspin and 3 normal Wheelspins.\n\nThe macro automatically purchases the vehicle, opens its Car Mastery tree and spends the required Skill Points.\n\nMacro Controls\n\n• F8 → Start\n• F2 → Pause or Resume\n• F9 → Stop"
     },
     {
       "id": "car-mastery-mazda",
@@ -93,7 +93,7 @@
       "version": "1.0.0",
       "downloadUrl": "https://github.com/GrindAssist/GrindAssist-Downloads/releases/download/v1.0.0.cm/CarMastery.zip",
       "fileName": "FH6 Car Mastery - GrindAssist - Mazda.exe",
-      "instructions": ""
+      "instructions": "Before Starting\n\n• Enter the Garage and open any section of the main Garage menu.\n• This version requires ownership of the applicable DLC or Car Pass.\n• Make sure you have enough Credits to purchase the required vehicles.\n• Make sure you have enough Skill Points available for each Car Mastery tree.\n\nRequired Vehicle\n\n• Mazda Mad Mike\n• This is the recommended Car Mastery vehicle for players who own the required DLC Pass.\n• Each completed vehicle provides 1 Super Wheelspin.\n\nThe macro automatically purchases the vehicle, opens its Car Mastery tree and spends the required Skill Points.\n\nMacro Controls\n\n• F8 → Start\n• F2 → Pause or Resume\n• F9 → Stop"
     }
   ],
   "healthRefreshSeconds": 60
