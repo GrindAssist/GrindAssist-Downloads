@@ -6,8 +6,8 @@
   "launcherStatus": "Online",
   "announcement": {
     "enabled": true,
-    "title": "Launcher version 2.4.8 is live.",
-    "message": "UI Improvements, Statistics are now accurately displayed via the launcher.",
+    "title": "Launcher version 2.7.1 is live.",
+    "message": "UI Improvements, Implemented additional safety features & more.",
     "type": "success"
   },
   "macros": [
